@@ -1,0 +1,12 @@
+
+.ques {
+    margin: 20px 50px 50px 50px;
+  }
+  .ques h2 {
+    text-align: start;
+    padding-bottom: 0;
+  }
+  .ques p {
+    text-align: justify;
+    padding-bottom: 30px;
+  }

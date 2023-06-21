@@ -3,7 +3,7 @@ import "./Nav.css"
 const Navber =()=>{
     return(
 <nav className="Navbar">
-<h1>This Grocery Shop</h1>
+<h1>Grocery Shop</h1>
 </nav>
     );
 
