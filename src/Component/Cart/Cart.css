@@ -1,0 +1,25 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+
+.cart {
+    margin-bottom: 50px;
+  }
+  
+  .cart button {
+    padding: 7px 10px;
+    border-radius: 17px;
+    font-weight: 600;
+    color: black;
+    background-color: white;
+    margin-top: 20px;
+    border: 2px solid blue;
+  }
+  .cart button:hover {
+    background-color: blue;
+    border: 2px solid white;
+    color: white;
+  }
+  
