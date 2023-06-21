@@ -1,7 +1,7 @@
 .cart{
     position: sticky;
     top: 0;
-    padding: 30px 20px;
+    padding: 50px 30px;
 }
 
 .cart {
@@ -12,14 +12,13 @@
     padding: 7px 10px;
     border-radius: 17px;
     font-weight: 600;
-    color: black;
     background-color: white;
     margin-top: 20px;
-    border: 2px solid blue;
+    border: 2px solid rgb(69, 4, 247);
   }
   .cart button:hover {
-    background-color: blue;
-    border: 2px solid white;
-    color: white;
+    background-color: rgb(49, 6, 241);
+    border: 2px solid rgb(235, 222, 222);
+    color: rgb(133, 126, 131);
   }
   
